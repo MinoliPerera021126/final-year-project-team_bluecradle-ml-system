@@ -1,0 +1,14 @@
+# Virtual environments
+venv/
+
+# Python bytecode
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Mlflow artifacts
+mlruns/
