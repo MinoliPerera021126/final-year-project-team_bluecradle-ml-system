@@ -7,3 +7,5 @@ category_encoders
 matplotlib
 mlflow
 tensorflow
+imbalanced-learn
+xgboost
