@@ -4,11 +4,13 @@ venv/
 # Python bytecode
 __pycache__/
 
-# Jupyter Notebook checkpoints
+# Jupyter Checkpoints
 .ipynb_checkpoints/
 
 # Logs
 *.log
 
-# Mlflow artifacts
-mlruns/
+# MLflow Tracking
+mlflow/
+mlruns.db
+

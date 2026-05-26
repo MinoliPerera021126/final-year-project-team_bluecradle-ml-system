@@ -8,3 +8,4 @@ matplotlib
 mlflow
 tensorflow
 imbalanced-learn
+xgboost
