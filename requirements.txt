@@ -1,0 +1,9 @@
+jupyter
+ipykernel
+pandas
+numpy
+scikit-learn
+category_encoders
+matplotlib
+mlflow
+tensorflow
